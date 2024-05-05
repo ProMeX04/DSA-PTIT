@@ -1,5 +1,8 @@
-#include<iostream>
+
+#include <iostream>
 using namespace std;
-int main(){
-    cout << "Hello PTIT.";
+
+int main() {
+    cout << "Xin chao";
+    return 0;
 }
